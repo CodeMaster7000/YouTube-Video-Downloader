@@ -1,7 +1,7 @@
 from pytube import YouTube
 SAVE_PATH = "E:/" 
-link=["https://www.youtube.com/watch?v=XEA_o1eAVw8",
-	"https://www.youtube.com/watch?v=KxD3dvMyQdI"
+link=["https://www.youtube.com/watch?v=XEA_o1eAVw8", # Enter the link of your chosen
+	"https://www.youtube.com/watch?v=KxD3dvMyQdI" # YouTube videos here.
 	]
 
 for i in link:
