@@ -5,8 +5,7 @@ link=["https://www.youtube.com/watch?v=XEA_o1eAVw8",
 	]
 
 for i in link:
-	try:
-  
+	try: 
 		yt = YouTube(i)
 	except:
 		print("A connection error occurred.")
